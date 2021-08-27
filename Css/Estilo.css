@@ -45,7 +45,30 @@ footer{
     width: 100px;
     height: 90px;    
 }
-.rdp_content{
-    min-height: 400px;
+.cls_prdcontent{
+    background:#f0e8ff;   
+    min-height: 300px;
+}
+.cls_prdcontainer{
+
+    max-width: 800px;
+    display: flex;
+    margin: auto;
+    padding-top: 30px;
+    flex-wrap: wrap;
+}
+.homeproduto1{
+    width: 200px;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.homeproduto1 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border:1px solid #ccc;    
+    box-shadow: 0px 2px 4px rgba(133, 210, 218, 0.534);
 
 }
