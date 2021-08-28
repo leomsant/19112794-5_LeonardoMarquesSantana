@@ -70,5 +70,20 @@ footer{
     border-radius: 100px;
     border:1px solid #ccc;    
     box-shadow: 0px 2px 4px rgba(133, 210, 218, 0.534);
+}
 
+.prod-cl {
+    width: 50%;
+}
+
+.prod-cr {
+    width: 50%;
+}
+
+.prod-cl img{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    border:1px solid #ccc;    
+    box-shadow: 0px 2px 4px rgba(133, 210, 218, 0.534);   
 }
