@@ -78,6 +78,12 @@ footer{
 
 .prod-cr {
     width: 50%;
+    margin-bottom: 20px;
+}
+.prod-cr p {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 60px;
 }
 
 .prod-cl img{
@@ -86,4 +92,14 @@ footer{
     border-radius: 150px;
     border:1px solid #ccc;    
     box-shadow: 0px 2px 4px rgba(133, 210, 218, 0.534);   
+}
+
+.button{
+    text-decoration: none;
+    color:#FFF;
+    background-color: #FF7143;
+    padding:12px;
+    font-weight: bold;
+    border-radius: 7px;
+
 }

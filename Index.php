@@ -28,7 +28,7 @@
     <div class="cls_prdcontent">
         <div class="cls_prdcontainer">
             <?php
-                $page = "home.php";
+                $page = "home";
 
                 if(isset($_GET['page'])){
 
